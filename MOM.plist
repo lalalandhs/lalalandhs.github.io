@@ -23,7 +23,7 @@
                 <dict>
                     <!-- required -->
                     <key>bundle-identifier</key>
-                    <string>mom.gov.sg.apps.msol</string> 	<!--HANDY CHANGE THIS-->
+                    <string>mom.gov.sg.apps.*</string> 	<!--HANDY CHANGE THIS-->
 
                     <!-- optional (software only) -->
                     <key>bundle-version</key>
