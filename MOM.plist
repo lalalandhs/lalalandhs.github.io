@@ -23,7 +23,7 @@
                 <dict>
                     <!-- required -->
                     <key>bundle-identifier</key>
-                    <string>mom.gov.sg.apps.msol</string> 	<!--HANDY CHANGE THIS-->
+                    <string>mom.gov.sg.apps.mom</string> 	<!--HANDY CHANGE THIS-->
 
                     <!-- optional (software only) -->
                     <key>bundle-version</key>
@@ -41,7 +41,7 @@
 
                     <!-- required.  the title to display during the download. -->
                     <key>title</key>
-                    <string>MSOL</string>			<!--HANDY CHANGE THIS-->
+                    <string>MOM</string>			<!--HANDY CHANGE THIS-->
                 </dict>
             </dict>
         </array>
